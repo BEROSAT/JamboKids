@@ -12,6 +12,18 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
+  "4":{
+  "id": "4",
+  "name": "NICK JUNIOR",
+  "description": "905",
+  "live_url": "http://fl2.moveonjoy.com/NICK_JR/index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfNTMxMzU3NDhf/NickJunior.png",
+  "categorie": "KIDS",
+  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
+  }, 
   "1":{
   "id": "1",
   "name": "KIDDI WINKS",
@@ -24,7 +36,19 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "2":{
+  "4":{
+  "id": "4",
+  "name": "NICKELODEON TV",
+  "description": "905",
+  "live_url": "http://fl2.moveonjoy.com/NICKELODEON/index.m3u8",
+  "thumbnail": "https://od.lk/s/NzNfNjg5MzA2NzRf/nickelodeon.jpg",
+  "categorie": "KIDS",
+  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
+  }, 
+  "2":{
   "id": "2",
   "name": "TORTUE NINJA",
   "description": "903",
@@ -59,6 +83,18 @@
   "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
-  }
+  },
+   "2":{
+  "id": "2",
+  "name": "NICKTOONS TV",
+  "description": "903",
+  "live_url": "http://fl2.moveonjoy.com/NICKTOONS/index.m3u8",
+  "thumbnail": "https://od.lk/s/M18yODk0MDQ2MTZf/Nicktoons.png",
+  "categorie": "KIDS",
+  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
+  },
 }
 
