@@ -29,7 +29,7 @@
   "name": "KIDDI WINKS",
   "description": "902",
   "live_url": "https://origin3.afxp.telemedia.co.za/PremiumFree/kiddiwinks/playlist.m3u8",
-  "thumbnail": "https://od.lk/s/M18yODk0MDQ0NDVf/toonami.jpeg",
+  "thumbnail": "https://od.lk/s/NDZfNzgyNTA1ODRf/kiddiwinks.jpg",
   "categorie": "KIDS",
   "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
