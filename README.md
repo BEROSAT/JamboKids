@@ -95,6 +95,54 @@
   "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
+  },
+  "8":{
+  "id": "9",
+  "name": "CARTOON NETWORK",
+  "description": "909",
+  "live_url": "http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8",
+  "thumbnail": "https://od.lk/s/M18yODk0MDQ2MTZf/Nicktoons.png",
+  "categorie": "KIDS",
+  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
+  },
+  "9":{
+  "id": "10",
+  "name": "DISNEY CHANNEL",
+  "description": "910",
+  "live_url": "http://fl2.moveonjoy.com/DISNEY_CHANNEL/index.m3u8",
+  "thumbnail": "https://od.lk/s/M18yODk0MDQ2MTZf/Nicktoons.png",
+  "categorie": "KIDS",
+  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
+  },
+  "10":{
+  "id": "11",
+  "name": "DISNEY JUNIOR",
+  "description": "911",
+  "live_url": "http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8",
+  "thumbnail": "https://od.lk/s/M18yODk0MDQ2MTZf/Nicktoons.png",
+  "categorie": "KIDS",
+  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
+  },
+  "11":{
+  "id": "12",
+  "name": "DISNEY-XD TV",
+  "description": "912",
+  "live_url": "http://fl2.moveonjoy.com/DISNEY_XD/index.m3u8",
+  "thumbnail": "https://od.lk/s/M18yODk0MDQ2MTZf/Nicktoons.png",
+  "categorie": "KIDS",
+  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   }
 }
 
