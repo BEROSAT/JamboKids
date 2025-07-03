@@ -103,7 +103,7 @@
   "id": "12",
   "name": "DISNEY-XD TV",
   "number":"912",
-  "description": "912",
+  "description": "Destiny-xd tv est une chaîne thématique pour les enfants où l'on  peut trouver des programmes comme: musique, dessins animés, cinéma, spectacles, émission et autre.",
   "live_url": "http://fl2.moveonjoy.com/DISNEY_XD/index.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNzgyNTc5MjRf/disneyXD.jpg",
   "categorie": "KIDS"
@@ -112,10 +112,16 @@
   "id": "13",
   "name": "CANAL-C JUNIOR TV",
   "number":"913",
-  "description": "912",
+  "description": "Canal C junior la télé congolaise des enfants, nous sommes est une chaîne thématique pour les enfants où l'on  peut trouver des programmes comme: musique, dessins animés, cinéma, spectacles, émission et autre.",
   "live_url": "https://stream.berosat.live:19360/canalc-junior/canalc-junior.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODMzNTE5MDhf/canalCjunior.jpg",
   "categorie": "KIDS"
   }
 }
+
+
+
+
+
+
 
