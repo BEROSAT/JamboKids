@@ -107,6 +107,15 @@
   "live_url": "http://fl2.moveonjoy.com/DISNEY_XD/index.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNzgyNTc5MjRf/disneyXD.jpg",
   "categorie": "KIDS"
+  },
+  "12":{
+  "id": "13",
+  "name": "DISNEY-XD TV",
+  "number":"913",
+  "description": "912",
+  "live_url": "https://stream.berosat.live:19360/canalc-junior/canalc-junior.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODMzNTE5MDhf/canalCjunior.jpg",
+  "categorie": "KIDS"
   }
 }
 
