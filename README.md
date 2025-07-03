@@ -110,7 +110,7 @@
   },
   "12":{
   "id": "13",
-  "name": "DISNEY-XD TV",
+  "name": "CANAL-C JUNIOR TV",
   "number":"913",
   "description": "912",
   "live_url": "https://stream.berosat.live:19360/canalc-junior/canalc-junior.m3u8",
