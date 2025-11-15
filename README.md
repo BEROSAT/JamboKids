@@ -14,7 +14,7 @@
   "name": "NICK JUNIOR",
   "number":"902",
   "description": "902",
-  "live_url": "http://fl2.moveonjoy.com/NICK_JR/index.m3u8",
+  "live_url": "http://fl1.moveonjoy.com/NICK_JR/index.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNTMxMzU3NDhf/NickJunior.png",
   "categorie": "KIDS"
   }, 
@@ -32,7 +32,7 @@
   "name": "NICKELODEON TV",
   "number":"904",
   "description": "904",
-  "live_url": "http://fl2.moveonjoy.com/NICKELODEON/index.m3u8",
+  "live_url": "http://fl1.moveonjoy.com/NICKELODEON/index.m3u8",
   "thumbnail": "https://od.lk/s/NzNfNjg5MzA2NzRf/nickelodeon.jpg",
   "categorie": "KIDS"
   }, 
@@ -68,7 +68,7 @@
   "name": "NICKTOONS TV",
   "number":"908",
   "description": "908",
-  "live_url": "http://fl2.moveonjoy.com/NICKTOONS/index.m3u8",
+  "live_url": "http://fl1.moveonjoy.com/NICKTOONS/index.m3u8",
   "thumbnail": "https://od.lk/s/M18yODk0MDQ2MTZf/Nicktoons.png",
   "categorie": "KIDS"
   },
@@ -77,7 +77,7 @@
   "name": "CARTOON NETWORK",
   "number":"909",
   "description": "909",
-  "live_url": "http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8",
+  "live_url": "http://fl1.moveonjoy.com/CARTOON_NETWORK/index.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNzgyNTg0NzNf/cartoonNetwork.png",
   "categorie": "KIDS"
   },
@@ -86,7 +86,7 @@
   "name": "DISNEY CHANNEL",
   "number":"910",
   "description": "910",
-  "live_url": "http://fl2.moveonjoy.com/DISNEY_CHANNEL/index.m3u8",
+  "live_url": "http://fl1.moveonjoy.com/DISNEY_CHANNEL/index.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNzgyNTgyNzlf/disneyChannel.jpg",
   "categorie": "KIDS"
   },
@@ -95,7 +95,7 @@
   "name": "DISNEY JUNIOR",
   "number":"911",
   "description": "911",
-  "live_url": "http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8",
+  "live_url": "http://fl1.moveonjoy.com/DISNEY_JR/index.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNzgyNTc5Mjhf/DisneyJunior.jpg",
   "categorie": "KIDS"
   },
@@ -104,7 +104,7 @@
   "name": "DISNEY-XD TV",
   "number":"912",
   "description": "Destiny-xd tv est une chaîne thématique pour les enfants où l'on  peut trouver des programmes comme: musique, dessins animés, cinéma, spectacles, émission et autre.",
-  "live_url": "http://fl2.moveonjoy.com/DISNEY_XD/index.m3u8",
+  "live_url": "http://fl1.moveonjoy.com/DISNEY_XD/index.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNzgyNTc5MjRf/disneyXD.jpg",
   "categorie": "KIDS"
   },
